@@ -8,5 +8,7 @@ int main (int argc,char **argv)
 	printf("Vivo en A Coruña");
 	printf("Estudio Grado en Ingeniería informática\n");
 	printf("Pero en realidad soy de la provincia de Lugo\n");
+	printf("Concretamente soy del Ayuntamiento de A Fonsagrada\n");
+	/*Esto es sólo un programa de prueba y no importa que no funcione*/
 	return 0;
 }
