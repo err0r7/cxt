@@ -6,6 +6,7 @@ int main (int argc,char **argv)
    	printf("Hola mi nombre es Rubén Burgué Pérez\n");
    	printf("Tengo 22 años\n");
 	printf("Vivo en A Coruña");
-	printf("Estudio Grado en Ingeniería informática");
+	printf("Estudio Grado en Ingeniería informática\n");
+	printf("Pero en realidad soy de la provincia de Lugo\n");
 	return 0;
 }
